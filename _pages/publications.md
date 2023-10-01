@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Mingming Qiu**, Elie Najm, Rémi Sharrock, and Bruno Traverson, “PBRE: A rule extraction method from trained neural
+networks designed for smart home services,” in International Conference on Database and Expert Systems Applications.
+Springer, 2022, pp. 158–173
