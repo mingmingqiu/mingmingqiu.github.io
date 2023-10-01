@@ -1,5 +1,5 @@
 ---
-title: "<p style=\small>Paper Title Number 1</p>"
+title: "<p>Paper Title Number 1</p>"
 collection: publications
 permalink: /
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
