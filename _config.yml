@@ -102,11 +102,11 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mingming-qiu-7a3260117/"
+  linkedin         : https://www.linkedin.com/in/mingming-qiu-7a3260117/
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/10349608/mingming-qiu"
+  stackoverflow    : https://stackoverflow.com/users/10349608/mingming-qiu
   steam            :
   tumblr           :
   # twitter          : "replacethistwitterhandle"
