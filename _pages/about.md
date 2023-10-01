@@ -10,7 +10,7 @@ redirect_from:
 
 <hr/>
 
-I obtained my PhD at Télécom Paris in Institut Polytechnique de Paris. at École Polytechnique working with Aymeric Dieuleveut on federated learning and optimization problems. My thesis is about using Multi-agent Reinforcement Learning (MARL) to realize the creation of multiple dynamic smart home services. Furthermore, rule extraction algorithm is also introduced to ensure that the created MARL services would be explainable. I'm currently looking for a postdoc on machine learning research.
+I obtained my PhD at Télécom Paris in Institut Polytechnique de Paris. My thesis is about using Multi-agent Reinforcement Learning (MARL) to realize the creation of multiple dynamic smart home services. Furthermore, rule extraction algorithm is also introduced to ensure that the created MARL services would be explainable. I'm currently looking for a postdoc on machine learning research.
 
 My research
 ======
