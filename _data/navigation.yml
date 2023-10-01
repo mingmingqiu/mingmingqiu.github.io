@@ -22,7 +22,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: http://mingmingqiu.github.io/files/CV.pdf
+    url: <link href='http://mingmingqiu.github.io/files/CV.pdf'>
 
     
   - title: "Guide"
