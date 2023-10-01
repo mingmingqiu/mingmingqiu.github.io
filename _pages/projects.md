@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
 Master Student CentraleSupelec, Électricité de France, Dec 2017 – Apr 2018 <br>
 • Studied the working modes of turbines <br>
 • Reconstructed the total flow model based on the flow of turbines and that of valves in Matlab.<br>
