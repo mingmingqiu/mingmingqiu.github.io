@@ -21,7 +21,7 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: [CV](http://academicpages.github.io/files/CV.pdf)
+  - title: "CV"
     url: /cv/
 
     
