@@ -26,3 +26,9 @@ Education
 * Institut Polytechnique de Paris, France, 02/2019 - 04/2023
 * CentraleSupelec, France, 09/2016 - 09/2018
 * Wuhan University, China, 09/2012 - 06/2016
+
+Language
+======
+* Chinese (native)
+* English (B2)
+* French (B2)
