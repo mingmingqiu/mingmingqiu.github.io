@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[CV](http://academicpages.github.io/files/CV.pdf)
+[CV](http://mingmingqiu.github.io/files/CV.pdf)
