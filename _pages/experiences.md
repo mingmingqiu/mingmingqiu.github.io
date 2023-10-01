@@ -4,6 +4,7 @@ title: "Experiences"
 permalink: /experiences/
 author_profile: true
 ---
+<hr/>
 Creation of dynamic smart home services, PhD Engineer, EDF, Feb 2019 – Apr 2023 <br>
 • Proposed new algorithms to create dynamic services using reinforcement learning with Python in Pytorch.<br>
 • Proposed new algorithms to make machine learning algorithms explicable.<br>
