@@ -5,6 +5,11 @@ permalink: /projects/
 author_profile: true
 ---
 <hr/>
+A French patent application (inventor: Mingming Qiu) in co-ownership with EDF SA and IMT submitted on 28 August
+2023 [reference number: FR 2309022]: the patent is about a system to create dynamic and explicable services based on
+machine learning and knowledge representation
+
+<hr/>
 Numerical modeling of the Rance tidal power plant, Master Student, CentraleSupelec & EDF, Dec 2017 – Apr 2018 <br>
 • Studied the working modes of turbines <br>
 • Reconstructed the total flow model based on the flow of turbines and that of valves in Matlab.<br>
