@@ -18,7 +18,7 @@ and Applications (2022 IEEE ICMLA).
 <hr/>
 
  **Observation error covariance specification in dynamical systems for data assimilation using recurrent neural networks** <br/>
- Sibo Cheng* and  <strong>{Mingming Qiu*}</strong> (*: equivelent contributions), in Neural Computing and Applications, 34(16): 13149–13167, 2022
+ Sibo Cheng* and  <strong>Mingming Qiu*</strong> (*: equivelent contributions), in Neural Computing and Applications, 34(16): 13149–13167, 2022
 
 
 <hr/>
