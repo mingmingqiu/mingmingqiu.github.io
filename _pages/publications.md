@@ -26,3 +26,14 @@ and Applications (2022 IEEE ICMLA).
 **HKD-SHO: A hybrid smart home system based on knowledge-based and data-driven services** <br/>
 **Mingming Qiu**, Elie Najm, Rémi Sharrock, and Bruno Traverson, submitted to the 23rd International Conference on Intelligent Systems
 Design and Applications (ISDA), 2023.
+
+<hr/>
+
+**Reinforcement Learning Based Architectures for the Creation of Dynamic Smart Home Services** <br/>
+**Mingming Qiu**, Elie Najm, Rémi Sharrock, and Bruno Traverson, in preparation for a journal.
+
+
+<hr/>
+
+**High dimensional data assimilation using Bayesian Reinforcement Learning** <br/>
+**Mingming Qiu**, Sibo Cheng, in preparation for a journal.
