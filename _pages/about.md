@@ -18,6 +18,7 @@ My research interest focus on:
 * Reinforcement Learning
 * Data Assimilation
 * Optimization
+* Computer vision
 <br><br>
 More generally, I'm interested with different data-driven algorithms, especially machine learning algorithms. I am always looking for collaborations and would love to hear from you! Reach out if any of my work sounds interesting.
 
