@@ -3,6 +3,7 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
+redirect_from: /resume
 ---
 <hr/>
 Vehicle detection (Oct 3rd, 2023- Oct 13, 2023): Vehicle classification and detection (by building and training YOLOv3) based on the
