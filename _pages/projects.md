@@ -7,8 +7,7 @@ author_profile: true
 
 <hr/>
 Vehicle detection (Oct 3rd, 2023- Oct 13, 2023): Vehicle classification and detection (by building and training YOLOv3) based on the
-Stanford vehicle images dataset in computer vision. The codes are contained in the [link](http://mingmingqiu.github.io/files/computer_vision_vehicle_classification.ipynb)
-<a href="https://mingmingqiu.github.io/files/computer_vision_vehicle_classification.ipynb">link</a>
+Stanford vehicle images dataset in computer vision. The codes are contained in the <a href="https://drive.google.com/file/d/1K5yNVBm5_3kpiUA-wLLLnk42oyQslRGE/view?usp=share_link">link</a>
 <hr/>
 A French patent application (inventor: Mingming Qiu) in co-ownership with EDF SA and IMT submitted on 28 August
 2023 [reference number: FR 2309022]: the patent is about a system to create dynamic and explicable services based on
