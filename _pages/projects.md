@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
 <hr/>
 Vehicle detection (Oct 3rd, 2023- Oct 13, 2023): Vehicle classification and detection (by building and training YOLOv3) based on the
 Stanford vehicle images dataset in computer vision. The codes are contained in the [link](http://mingmingqiu.github.io/files/computer_vision_vehicle_classification.ipynb)
