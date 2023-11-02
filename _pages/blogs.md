@@ -16,7 +16,9 @@ $$
 So, we'll compute the components of this expression necessary to illustrate this inequality, and then combine them. We see that switching doors doubles our chances of winning.
 $$
 \displaylines{
-P(Z=C|X=A)=P(Z=C|𝑋 = 𝐴, 𝑌 = 𝐴)𝑃(𝑌 = 𝐴)+ 𝑃(𝑍 = 𝐶|𝑋 = 𝐴, 𝑌 = 𝐵)𝑃(𝑌 = 𝐵)+ 𝑃(𝑍 = 𝐶|𝑋 = 𝐴, 𝑌 = 𝐶)𝑃(𝑌 = 𝐶)\\
+P(Z=C|X=A)=P(Z=C|𝑋 = 𝐴, 𝑌 = 𝐴)𝑃(𝑌 = 𝐴) \\
+          + 𝑃(𝑍 = 𝐶|𝑋 = 𝐴, 𝑌 = 𝐵)𝑃(𝑌 = 𝐵) \\
+          + 𝑃(𝑍 = 𝐶|𝑋 = 𝐴, 𝑌 = 𝐶)𝑃(𝑌 = 𝐶)\\
           =1/2 * 1/3 + 1 * 1/3 + 0 * 1/3 \\
           =1/2  \\}
 $$
