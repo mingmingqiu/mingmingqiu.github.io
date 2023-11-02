@@ -22,11 +22,11 @@ P(Z=C|X=A)=P(Z=C|𝑋 = 𝐴, 𝑌 = 𝐴)𝑃(𝑌 = 𝐴)+ 𝑃(𝑍 = 𝐶|�
 $$
 $$
 \displaylines{
-𝑃(𝑌 = 𝐴|𝑋 = 𝐴, 𝑍 = 𝐶)={{P(Y=A)P(X=A,Z=C|Y=A)} \over {P(X=A,Z=C)}}   \\
-                      ={{P(Z=C|X=A,Y=A)P(X=A|Y=A)P(A)} \over {P(Z=C|X=A)P(X=A)}}  \\
-                      ={{P(Z=C|X=A,Y=A)P(X=A,Y=A)} \over {P(Z=C|X=A)P(X=A)} }\\
-                      ={{P(Z=C|X=A,Y=A)P(Y=A|X=A)} \over {P(Z=C|X=A)}} \\
-                      ={{1/2*1/3} \over {1/2}} \\
+𝑃(𝑌 = 𝐴|𝑋 = 𝐴, 𝑍 = 𝐶)={P(Y=A)P(X=A,Z=C|Y=A) \over P(X=A,Z=C)}   \\
+                      ={P(Z=C|X=A,Y=A)P(X=A|Y=A)P(A) \over P(Z=C|X=A)P(X=A)}  \\
+                      ={P(Z=C|X=A,Y=A)P(X=A,Y=A) \over P(Z=C|X=A)P(X=A)}\\
+                      ={P(Z=C|X=A,Y=A)P(Y=A|X=A) \over P(Z=C|X=A)} \\
+                      ={1/2*1/3 \over 1/2} \\
                       ={1\over 3}  \\  
                       }
 $$
