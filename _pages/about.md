@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<center>Mingming Qiu </center>"
+title: "<center>Mingming Qiu</center>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
