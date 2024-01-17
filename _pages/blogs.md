@@ -4,7 +4,11 @@ title: "Blogs"
 permalink: /blogs/
 author_profile: true
 ---
-[Monty Hall problem](http://mingmingqiu.github.io/_blogs/monty_hall.md)
+{% include base_path %}
+
+{% for post in site.blogs reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
 
