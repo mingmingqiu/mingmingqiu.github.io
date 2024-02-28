@@ -20,7 +20,6 @@ and Applications (2022 IEEE ICMLA).
  **Observation error covariance specification in dynamical systems for data assimilation using recurrent neural networks** <br/>
  Sibo Cheng* and  <b>Mingming Qiu\*</b> (*: equal contribution), in Neural Computing and Applications, 34(16): 13149–13167, 2022
 
-
 <hr/>
 
 **HKD-SHO: A hybrid smart home system based on knowledge-based and data-driven services** <br/>
