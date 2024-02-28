@@ -22,6 +22,11 @@ and Applications (2022 IEEE ICMLA).
 
 <hr/>
 
+**Designing smart home services using machine learning and knowledge-based approaches** <br/>
+**Mingming Qiu**, Ph.D. thesis, Institut Polytechnique de Paris, 2023
+
+<hr/>
+
 **HKD-SHO: A hybrid smart home system based on knowledge-based and data-driven services** <br/>
 **Mingming Qiu**, Elie Najm, Rémi Sharrock, and Bruno Traverson, 2024. arXiv:2402.15521.
 <hr/>
