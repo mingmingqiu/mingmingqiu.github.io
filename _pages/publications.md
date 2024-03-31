@@ -29,10 +29,6 @@ and Applications (2022 IEEE ICMLA).
 
 **HKD-SHO: A hybrid smart home system based on knowledge-based and data-driven services** <br/>
 **Mingming Qiu**, Elie Najm, Rémi Sharrock, and Bruno Traverson, 2024. arXiv:2402.15521.
-<hr/>
-
-**Reinforcement Learning Based Architectures for the Creation of Dynamic Smart Home Services** <br/>
-**Mingming Qiu**, Elie Najm, Rémi Sharrock, and Bruno Traverson, in preparation for a journal.
 
 
 <hr/>
