@@ -8,9 +8,11 @@ Description: you are a contestant on a game show, hosted by Monty Hall. Monty sh
 Answer:
 
 Let $X$ indicate the door chosen by the player, $Y$ indicate the door hiding the car, and $Z$ indicate the door opened by the host. We can prove that 
+
 $$
 P(Y=A|X=A,Z=C) < P(Y=B|X=A,Z=C)
 $$
+
 So, we'll compute the components of this expression necessary to illustrate this inequality, and then combine them. We see that switching doors doubles our chances of winning.
 $$
 \begin{align}
