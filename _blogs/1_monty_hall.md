@@ -14,6 +14,7 @@ P(Y=A|X=A,Z=C) < P(Y=B|X=A,Z=C)
 $$
 
 So, we'll compute the components of this expression necessary to illustrate this inequality, and then combine them. We see that switching doors doubles our chances of winning.
+
 $$
 \begin{align}
 P(Z=C|X=A)&=P(Z=C|𝑋 = 𝐴, 𝑌 = 𝐴)𝑃(𝑌 = 𝐴) \\
